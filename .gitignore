@@ -1,6 +1,11 @@
+
 # Mac
 *.idea
 .DS_Store
+
+#Local don't save
+yolov8n.pt
+pic.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

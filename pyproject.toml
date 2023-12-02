@@ -6,6 +6,7 @@ description = ""
 dependencies = [
     "flask>=3.0.0",
     "opencv-python>=4.8.1.78",
+    "ultralytics>=8.0.221",
 ]
 requires-python = ">=3.10"
 readme = "README.md"
